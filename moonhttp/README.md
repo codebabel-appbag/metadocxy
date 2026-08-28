@@ -11,11 +11,6 @@ Seu objetivo principal é acelerar o desenvolvimento local de páginas web está
 Para a construção e empacotamento do binário autônomo, foram utilizadas apenas as bibliotecas essenciais da ecologia Lua:
 
 * **LuaJIT / Lua 5.1**
-* **LuaSocket**
-* **LuaFileSystem (`lfs`)**
-* **Códigos de Escape ANSI** (Cores e Formatação de Texto)
-* **LuaStatic / Luamake** (Compilação e Bundling Binário)
-
 ---
 
 ## 2. Aspectos de um Servidor HTTP Local Suportados
@@ -54,9 +49,9 @@ Ao servir qualquer documento HTML ou `.lwa`, o **moonhttp** analisa o código em
 * **v1.0.1:** Adição do **Inspetor de Dependências Estáticas**, exibição de logotipo em ASCII Art e links clicáveis no terminal com códigos de cores ANSI.
 * **v1.0.2:** Adição do tratamento de rotas de pastas e diretórios sem barra final com redirecionamento HTTP `301`.
 * **v1.0.3:** Adição de restrição de segurança para métodos HTTP (`GET`/`HEAD`), cabeçalhos contra cache de desenvolvimento e suporte à flag `--dir-list`.
-* **v1.0.4:** sem texto por enquanto.
-* **v1.0.5:** sem texto por enquanto.
-* **v1.0.5:** sem texto por enquanto.
+* **v1.0.4:** Correção de segurança.
+* **v1.0.5:** Correção de segurança.
+* **v1.0.5:** Correção de layout.
 ---
 
 ## 5. Guia Completo de Comandos CLI
