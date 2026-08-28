@@ -11,11 +11,6 @@
 为了构建和打包该独立二进制文件，仅使用了 Lua 生态系统中的必要库：
 
 * **LuaJIT / Lua 5.1**
-* **LuaSocket**
-* **LuaFileSystem (`lfs`)**
-* **ANSI 转义码**（用于颜色和文本格式化）
-* **LuaStatic / Luamake**（用于编译和二进制文件打包）
-
 ---
 
 ## 2. 支持的本地 HTTP 服务器功能
