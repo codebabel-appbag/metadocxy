@@ -11,11 +11,6 @@ Its primary goal is to accelerate the local development of static web pages by o
 To build and package the standalone binary, only essential libraries from the Lua ecosystem were used:
 
 * **LuaJIT / Lua 5.1**
-* **LuaSocket**
-* **LuaFileSystem (`lfs`)**
-* **ANSI Escape Codes** (Colors and Text Formatting)
-* **LuaStatic / Luamake** (Compilation and Binary Bundling)
-
 ---
 
 ## 2. Supported Local HTTP Server Features
