@@ -1,14 +1,4 @@
-# metadocxy
-**[pt_BR]** repositório para documentação de apps.
-
-**[zh_CN]** 应用程序文档存储库。
-
-**[es]** repositorio de documentación de aplicaciones.
-
-**[en]** repository for app documentation.
-
-___
-## moonhttp
+# moonhttp
 **[pt_BR]**
 
 Um servidor HTTP em Lua: fácil de usar, leve e muito mais.
