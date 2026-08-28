@@ -11,11 +11,6 @@ Su objetivo principal es agilizar el desarrollo local de páginas web estáticas
 Para construir y empaquetar el binario independiente, se utilizaron únicamente bibliotecas esenciales del ecosistema Lua:
 
 * **LuaJIT / Lua 5.1**
-* **LuaSocket**
-* **LuaFileSystem (`lfs`)**
-* **Códigos de escape ANSI** (colores y formato de texto)
-* **LuaStatic / Luamake** (compilación y empaquetado del binario)
-
 ---
 
 ## 2. Características del servidor HTTP local
