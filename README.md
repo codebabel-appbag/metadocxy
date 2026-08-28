@@ -9,4 +9,4 @@
 
 ___
 ## moonhttp:app
-🧭 [https://github.com/codebabel-appbag/metadocxy/tree/main/moonhttp/moonhttpGUIDE.md](https://github.com/codebabel-appbag/metadocxy/tree/main/moonhttp/moonhttpGUIDE.md "moonhttp:moonhttp_GUIDE")
+🧭 [https://github.com/codebabel-appbag/metadocxy/blob/main/moonhttp/GUIDE.md](https://github.com/codebabel-appbag/metadocxy/blob/main/moonhttp/GUIDE.md "moonhttp:moonhttp_GUIDE")
