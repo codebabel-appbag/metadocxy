@@ -36,7 +36,7 @@ ___
 🧭 [https://github.com/codebabel-appbag/metadocxy/tree/main/moonhttp/README_zh_CN.md](https://github.com/codebabel-appbag/metadocxy/tree/main/moonhttp/README_zh_CN.md "moonhttp:README_zh_CN")
 ___
 **[es]** Manual.
-🧭 [https://github.com/codebabel-appbag/metadocxy/tree/main/moonhttp/README_es.md](https://github.com/codebabel-appbag/metadocxy/tree/main/moonhttp/README_en.md "moonhttp:README_es")
+🧭 [https://github.com/codebabel-appbag/metadocxy/tree/main/moonhttp/README_es.md](https://github.com/codebabel-appbag/metadocxy/tree/main/moonhttp/README_es.md "moonhttp:README_es")
 ___
 **[en]** Manual.
 🧭 [https://github.com/codebabel-appbag/metadocxy/tree/main/moonhttp/README_en.md](https://github.com/codebabel-appbag/metadocxy/tree/main/moonhttp/README_en.md "moonhttp:README_en")
