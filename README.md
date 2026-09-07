@@ -10,3 +10,6 @@
 ___
 ## moonhttp:app
 🧭 [https://github.com/codebabel-appbag/metadocxy/blob/main/moonhttp/GUIDE.md](https://github.com/codebabel-appbag/metadocxy/blob/main/moonhttp/GUIDE.md "moonhttp:moonhttp_GUIDE")
+
+## luapi:api
+🧭 [https://github.com/codebabel-appbag/metadocxy/tree/main/luapi/README.md](https://github.com/codebabel-appbag/metadocxy/tree/main/luapi/README.md "luapi:luapi_GUIDE")
