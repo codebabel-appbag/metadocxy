@@ -19,6 +19,7 @@ API REST em Lua com middleware de segurança.
 ## 🚀 Deploy no Heroku
 
 ```bash
-heroku create minha-lua-api
-heroku buildpacks:add https://github.com/leafo/heroku-buildpack-lua.git
-git push heroku main
+Render Create App
+Render WebService
+Dockfile: ubuntu 22.05
+```
